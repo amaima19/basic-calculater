@@ -1,2 +1,2 @@
-# basic-calculater
-basic operations of calculater
+# basic-calculator
+basic operations of calculator
